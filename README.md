@@ -13,7 +13,6 @@ Codingan menggunakan jupyter Noyebook
 
 Result:
 
-
 <br>
 
 ![24](https://github.com/rosmananda/Tugas-kripto-pert-11/assets/95514299/9b642bb4-4475-437e-90ca-7fc234b4e137)
